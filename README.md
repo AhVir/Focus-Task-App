@@ -19,8 +19,8 @@ To set up the app locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/ahvir/focustaskapp.git
-
+   ```js
+   git clone https://github.com/AhVir/Focus-Task-App
+   ```
 
    loading.... (rest of the part)
